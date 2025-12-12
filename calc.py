@@ -3,3 +3,4 @@
 
  print(f'Additon of given inputs is: {num1 + num2}')
  print(f'Multriplication of given inputs is: {num1 * num2}') 
+ print(f'Substraction of given input is: {num1 - num2}')
